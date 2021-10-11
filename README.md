@@ -1,16 +1,13 @@
-# Vector-Calc-Sandbox
-A VR simulation allowing for interaction with mathematical plots in 3D.
+<h1 align="center">Vector-Calc-Sandbox</h1>
+<p align = "left">
+<img class = "left" width = 70% src="Presentation Deck.eps">
+</p>
+<p align = "right">
+<img class = "right" width = 70% src="—Pngtree—math png vector material_2516155.png">
+</p>
 
-In the University of Maryland’s 2019 Hackathon, named Bitcamp, my team won 1st Prize, also called the
-Moonshot Hack Award, for our project named “Vector Calculus Sandbox”, a virtual reality multivariable
-calculus simulation, designed as a pedagogical tool.
+<h4 align="center">A VR simulation allowing for interaction with mathematical plots in 3D.</h4>
 
-## Competition Details
-Bitcamp 2019 hosted over 1300 students, culminating in 145 project submissions.
-Our team was composed of UMD students: sophomore John Ball (physics major),
-sophomore Matt Graber (computer science major), freshman Veronika Polushina
-(atmospheric and oceanic science major), and senior Ajeet Gary (mathematics and computer science major).
-We had 36 hours to create to our project.
 
 ## Project Description
 Vector Calculus Sandbox is a virtual reality-based multivariate calculus simulator, designed to be a pedagogical tool. At UMD the multivariate calculus class uses MATLAB, which many students find ineffective, so our goal was to create a more intuitive software to explain these concepts to a new student. We used the game engine Unity which utilizes scripts in C#, as well as Mathematica to confirm calculations and simulate our ideas before implementing them in Unity, although there is no part of the project that needs Mathematica to run. There are three models that the user can choose from: a directional derivative visualizer, an electromagnetism simulation, and a vector field simulation. The user wears an Oculus Rift virtual reality headset, immersing them in virtual reality, along with a controller for each hand so that they may grab things and see models of hands in front of them inside the simulation.
@@ -42,8 +39,4 @@ The vector field simulator allows the user to select from one of 13 preset vecto
 Three days after our project, Mathematics released Version 12, and Unity released Mathematica integration. With the two pieces of software being able to communicate, much of what we implemented in the project would become much simpler to implement by using Mathematica to solve and derive expressions, render surfaces, amongst other aspects. Our project was in effect a prototype for this integration, which coincidentally came out directly after it would have been useful to us. We mention the timing of the release of these updates as someone who is familiar with these pieces of software may notice that there are, now, easier ways to implement parts of our project.
 
 ### Project Links
-YouTube Demonstration: https://www.youtube.com/watch?v=PjyebX9fSOg&t
-
-Devpost Project Description: https://devpost.com/software/vector-calc-sandbox
-
-Bitcamp 2019 Competition: https://bit.camp/
+YouTube Demonstration: https://youtu.be/lP_4cnvQZN4
