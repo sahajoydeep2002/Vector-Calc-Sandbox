@@ -1,5 +1,7 @@
 <h1 align="center">Vector-Calc-Sandbox</h1>
-<p align = "left">
+<p align = "left"><p align = "right">
+<img class = "right" width = 20% src="—Pngtree—cartoon style math stationery elements_5364499.png">
+</p>
 <img class = "left" width = 80% src="Presentation Deck.jpg">
 </p>
 <p align = "right">
