@@ -1,6 +1,6 @@
 <h1 align="center">Vector-Calc-Sandbox</h1>
 <p align = "centre">
-</p><img class = "centre" width = 90% src="18348.jpg">
+</p><img class = "centre" width = 110% src="18348.jpg">
 </p>
 
 
