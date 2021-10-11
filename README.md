@@ -1,6 +1,7 @@
 <h1 align="center">Vector-Calc-Sandbox</h1>
-<p align = "left"><p align = "right">
-<img class = "right" width = 25% src="—Pngtree—cartoon style math stationery elements_5364499.png"></p><img class = "left" width = 75% src="Presentation Deck.jpg"></p>
+<p align = "centre">
+</p><img class = "centre" width = 110% src="Presentation Deck.jpg">
+</p>
 
 
 <h4 align="center">A VR simulation allowing for interaction with mathematical plots in 3D.</h4>
