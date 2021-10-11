@@ -2,8 +2,8 @@
 <p align = "left">
 <img class = "left" width = 110% src="Presentation Deck.jpg">
 </p>
-<p align = "right">
-<img class = "right" width = 50% src="—Pngtree—cartoon style math stationery elements_5364499.png">
+<p align = "centre">
+<img class = "centre" width = 30% src="—Pngtree—cartoon style math stationery elements_5364499.png">
 </p>
 
 <h4 align="center">A VR simulation allowing for interaction with mathematical plots in 3D.</h4>
