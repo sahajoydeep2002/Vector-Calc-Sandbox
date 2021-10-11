@@ -2,8 +2,6 @@
 <p align = "centre">
 </p><img class = "centre" width = 110% src="18348.jpg">
 </p>
-
-
 <h4 align="center">A VR simulation allowing for interaction with mathematical plots in 3D.</h4>
 
 
