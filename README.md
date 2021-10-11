@@ -1,9 +1,9 @@
 <h1 align="center">Vector-Calc-Sandbox</h1>
 <p align = "left">
-<img class = "left" width = 80% src="Presentation Deck.jpg">
+<img class = "left" width = 110% src="Presentation Deck.jpg">
 </p>
 <p align = "right">
-<img class = "right" width = 30% src="—Pngtree—cartoon style math stationery elements_5364499.png">
+<img class = "right" width = 50% src="—Pngtree—cartoon style math stationery elements_5364499.png">
 </p>
 
 <h4 align="center">A VR simulation allowing for interaction with mathematical plots in 3D.</h4>
